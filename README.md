@@ -3,6 +3,7 @@
 This repository provides a step-by-step guide for deploying an application on Amazon EKS (Elastic Kubernetes Service) using AWS Application Load Balancer (ALB) Ingress Controller.
 
 **📌 Architecture**
+
 The deployment follows this architecture:
 
 User → Load Balancer (ALB) → VPC → EKS Cluster → Worker Nodes → Pods (with Ingress)
@@ -11,6 +12,7 @@ User → Load Balancer (ALB) → VPC → EKS Cluster → Worker Nodes → Pods (
 
 
 **🛠 Services Used**
+
 Amazon EKS (Elastic Kubernetes Service)
 
 AWS ALB (Application Load Balancer)
