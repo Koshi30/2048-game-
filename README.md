@@ -1,4 +1,5 @@
-Application Deployment on Amazon EKS with Ingress
+**Application Deployment on Amazon EKS with Ingress**
+
 This repository provides a step-by-step guide for deploying an application on Amazon EKS (Elastic Kubernetes Service) using AWS Application Load Balancer (ALB) Ingress Controller.
 
 📌 Architecture
